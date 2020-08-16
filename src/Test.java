@@ -1,3 +1,4 @@
 public class Test {
-    int m = 0;
+    int c = 2;
+    String bug = "bug";
 }
